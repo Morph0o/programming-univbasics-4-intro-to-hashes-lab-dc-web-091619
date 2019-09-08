@@ -4,7 +4,7 @@ def new_hash
 end
 
 def my_hash
-  hash={:onee => one}
+  hash={:onee => "one"}
   return hash
 end
 
